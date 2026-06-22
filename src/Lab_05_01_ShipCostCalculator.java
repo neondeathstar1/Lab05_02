@@ -10,7 +10,7 @@ public class Lab_05_01_ShipCostCalculator {
         double totalPrice = 0;
 
         //output "Enter the price of the item: "
-        System.out.print("Enter the price of the item: 50 ");
+        System.out.print("Enter the price of the item: ");
 
         //input itemPrice
         itemPrice = in.nextDouble();
